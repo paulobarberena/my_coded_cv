@@ -9,6 +9,3 @@ It could work better, but at least you can upload resumees in docx or pdf and it
 If you've ever wondered why application forms screw your cv attached so badly, this could give a hint of how well the ATS retrieves your info.
 It will show you the parsed text it could extract from your attached file, along with locations, job titles, degrees, and experience time, so you can check if there is any formatting or inconsistency mistake.
 
-## Finally, you can play with your friends and it will rank who scores better amongst the resumees attached!
-
-Feel free to improve the script in the ipynb attached file. And if you want to test it, just run it with streamlit!
