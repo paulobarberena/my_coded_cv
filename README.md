@@ -9,9 +9,10 @@ If you've ever wondered why application forms screw your cv attached so badly, t
 
 If your cv passes the simplest ATS ever, then you are good to go!
 
-### Make sure you have streamlit installed:
+### Make sure you have streamlit and pdf reader installed:
 
 ````
 pip install streamlit
+pip install pymupdf
 ````
 
