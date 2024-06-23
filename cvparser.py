@@ -1,3 +1,4 @@
+# Set up the environment
 import streamlit as st
 import fitz  # PyMuPDF
 import re
@@ -117,9 +118,3 @@ if uploaded_file is not None:
         file_name='parsed_cv.txt',
         mime='text/plain'
     )
-
-st.write("""
-### Formatos de fecha aceptados
-- MM/YYYY
-- MM-YYYY
-""")
