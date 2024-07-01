@@ -3,7 +3,7 @@
 ### Combined Cumulative GPA: 3.31  
 ### Total Hours Studied: 5514.00
 
-[View Education Table](dataframes/df_education.csv)
+[View Education Table](luisvinatea/my_coded_cv/dataframes/df_education.csv)
 
 
 
