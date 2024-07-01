@@ -12,11 +12,11 @@
 | Economic Law                              | 36    | 2.0     | Universidade Federal de Santa Catarina        | 4.0         |
 | Fundamentals of Administration            | 54    | 3.0     | Le Cordon Bleu Perú                           | 4.0         |
 | Food Quality Management                   | 36    | 2.0     | Le Cordon Bleu Perú                           | 4.0         |
-| "Diagnosis, Planning, and Control"        | 90    | 5.0     | OBS Business School                           | 3.93        |
+| Diagnosis, Planning, and Control          | 90    | 5.0     | OBS Business School                           | 3.93        |
 | International Finance                     | 90    | 5.0     | OBS Business School                           | 3.92        |
 | Information Systems                       | 90    | 5.0     | OBS Business School                           | 3.84        |
 | Contemporary Brazilian Economy            | 72    | 4.0     | Universidade Federal de Santa Catarina        | 3.8         |
-| Accounting and Financial Statement Analysis I | 72 | 4.0 | Universidade Federal de Santa Catarina        | 3.8         |
+| Accounting                                | 72    | 4.0     | Universidade Federal de Santa Catarina        | 3.8         |
 | General Economic History                  | 72    | 4.0     | Universidade Federal de Santa Catarina        | 3.8         |
 | Financial Department                      | 90    | 5.0     | OBS Business School                           | 3.77        |
 | Investment Selection                      | 90    | 5.0     | OBS Business School                           | 3.77        |
