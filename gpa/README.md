@@ -1,7 +1,7 @@
 ## Calculating my overall GPA from 3 different grading scales (Spain, Peru and Brazil)
 
 ### Combined Cumulative GPA: 3.31  
-### Total Hours Studied: 5514.00
+### Total Hours Studied: 5514
 
 [View Education Table](luisvinatea/my_coded_cv/dataframes/df_education.csv)
 
