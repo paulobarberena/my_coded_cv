@@ -26,8 +26,9 @@
     </td>
   </tr>
 </table>
-<pre>
-  
+
+### Code Used
+
 ```html
 <table style="width: 100%;">
   <tr>
@@ -57,5 +58,3 @@
     </td>
   </tr>
 </table>
-```
-</pre>
