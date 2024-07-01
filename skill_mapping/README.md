@@ -1,20 +1,8 @@
 ## Job Compatibility by Total Credits in Educational Path
 
+                                                                                                                            
+
 ![Job Titles Chart](plots/job_titles.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```python
 import matplotlib.pyplot as plt
 # Define the areas for each course in df_education
@@ -227,4 +215,64 @@ ax.pie(sizes, labels=labels, autopct='%1.1f%%', shadow=True, startangle=140)
 ax.axis('equal')  
 
 plt.show()
+df_job_title_credits
 ```
+| Job Title                     |       Total Credits           |             Compatibility (%)                     |
+|:------------------------------|------------------------------:|--------------------------------------------------:|
+| Data Analyst                  |                           157 |                                               100 |
+| Policy Analyst                |                           130 |                                                82 |
+| Investment Banker             |                           130 |                                                82 |
+| Economist                     |                           130 |                                                82 |
+| Economic Historian            |                           130 |                                                82 |
+| Research Analyst              |                           130 |                                                82 |
+| Central Banker                |                           130 |                                                82 |
+| Market Analyst                |                           130 |                                                82 |
+| Investment Advisor            |                           130 |                                                82 |
+| Financial Planner             |                           130 |                                                82 |
+| Valuation Analyst             |                           130 |                                                82 |
+| Financial Controller          |                           130 |                                                82 |
+| Treasurer                     |                           130 |                                                82 |
+| Financial Analyst             |                           130 |                                                82 |
+| Finance Manager               |                           130 |                                                82 |
+| Behavioral Economist          |                           130 |                                                82 |
+| Event Planner                 |                            47 |                                                29 |
+| Operations Manager            |                            47 |                                                29 |
+| Design Engineer               |                            47 |                                                29 |
+| Equipment Manager             |                            47 |                                                29 |
+| Menu Consultant               |                            47 |                                                29 |
+| Restaurant Manager            |                            47 |                                                29 |
+| Event Coordinator             |                            47 |                                                29 |
+| Business Administrator        |                            47 |                                                29 |
+| Supply Chain Manager          |                            47 |                                                29 |
+| Social Accountant             |                            47 |                                                29 |
+| Hospitality Manager           |                            47 |                                                29 |
+| HR Manager                    |                            47 |                                                29 |
+| Health and Safety Inspector   |                            27 |                                                17 |
+| Public Health Manager         |                            27 |                                                17 |
+| Nutritionist                  |                            27 |                                                17 |
+| Viticulturist                 |                            27 |                                                17 |
+| Winemaker                     |                            27 |                                                17 |
+| Toxicologist                  |                            27 |                                                17 |
+| Product Development Scientist |                            27 |                                                17 |
+| Food Technologist             |                            27 |                                                17 |
+| Dietitian                     |                            27 |                                                17 |
+| Quality Control Analyst       |                            27 |                                                17 |
+| Food Scientist                |                            27 |                                                17 |
+| Quality Assurance Manager     |                            27 |                                                17 |
+| Food Safety Manager           |                            27 |                                                17 |
+| Business Intelligence Analyst |                            27 |                                                17 |
+| Customer Support Specialist   |                            27 |                                                17 |
+| Mathematician                 |                            25 |                                                15 |
+| Environmental Consultant      |                            14 |                                                 8 |
+| Sustainability Manager        |                            14 |                                                 8 |
+| Maintenance Manager           |                            14 |                                                 8 |
+| Safety Engineer               |                            14 |                                                 8 |
+| Strategic Consultant          |                            14 |                                                 8 |
+| Translator                    |                            14 |                                                 8 |
+| Technical Writer              |                            14 |                                                 8 |
+| Research Scientist            |                            14 |                                                 8 |
+| Innovation Manager            |                            14 |                                                 8 |
+| Researcher                    |                            14 |                                                 8 |
+| Academic                      |                            14 |                                                 8 |
+| Communications Specialist     |                            14 |                                                 8 |
+| Public Relations Officer      |                            14 |                                                 8 |
