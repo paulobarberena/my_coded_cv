@@ -7,8 +7,6 @@
         <a href="https://linkedin.com/in/luisvinatea"><img src="logos/In-Blue-21@2x.png" alt="LinkedIn" style="width: 20px; height: auto;"></a>
         <a href="mailto:luisvinateabarberena@gmail.com"><img src="logos/OIP.jpeg" alt="Mail" style="width: 20px; height: auto;"></a>
         <a href="https://wa.me/+5548988552904"><img src="logos/Digital_Glyph_Green.svg" alt="WhatsApp" style="width: 20px; height: auto;"></a>
-        <a href="https://maps.app.goo.gl/9fFpEyAD8WgabwmK7"><img src="logos/OIP (1).jpeg" alt="Location" style="width: 20px; height: auto;"></a>
-        <a href="https://instagram.com/incasushi"><img src="logos/Instagram_Glyph_Gradient.svg" alt="Instagram" style="width: 20px; height: auto;"></a>
       </div>
     </td>
     <td style="vertical-align: top;">
@@ -36,8 +34,6 @@
         <a href="https://"><img src="g" alt="LinkedIn" style="width: 20px; height: auto;"></a>
         <a href="mailto:"><img src="" alt="Mail" style="width: 20px; height: auto;"></a>
         <a href="https://wa.me/"><img src="" alt="WhatsApp" style="width: 20px; height: auto;"></a>
-        <a href="https://maps.app.goo.gl/"><img src="" alt="Location" style="width: 20px; height: auto;"></a>
-        <a href="https://"><img src="" alt="Instagram" style="width: 20px; height: auto;"></a>
       </div>
     </td>
     <td style="vertical-align: top;">
