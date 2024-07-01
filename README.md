@@ -24,6 +24,7 @@
   </tr>
 </table>
 
+### HTML
 ```html
 <table>
   <tr>
@@ -50,3 +51,33 @@
     </td>
   </tr>
 </table>
+```
+### Python
+```python
+personal_info = [
+    {
+        "Name": "Luis Vinatea",
+        "Title": "Data Analyst",
+        "Contact": {
+            "GitHub": "https://github.com/luisvinatea",
+            "LinkedIn": "https://linkedin.com/in/luisvinatea",
+            "Email": "mailto:luisvinateabarberena@gmail.com",
+            "Phone": "https://wa.me/+5548988552904",
+            "Location": [
+                "https://maps.app.goo.gl/9fFpEyAD8WgabwmK7",
+                "https://maps.app.goo.gl/AbScoAQwju7Jgt5A9"
+            ]
+        },
+        "Profile": [
+            "Administrator and analyst with 5 years of experience in the market.",
+            "Born in Brazil of Peruvian parents, lived in the USA, Spain, and Peru.",
+            "Holds a degree in Economics and a diploma in Management.",
+            "Currently pursuing an MBA in financial management at OBS Business School, in collaboration with the University of Barcelona.",
+            "Former restaurant owner with deep knowledge of delivery operations, restaurant budgeting, menu engineering, and sales strategy.",
+            "Able to provide insights as a multilingual and multidisciplinary professional.",
+            "Works as a consultant, helping small businesses make decisions supported by data analysis."
+        ]
+    }
+]
+```
+
