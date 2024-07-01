@@ -35,7 +35,7 @@
       <img src="https://" alt="" style="width: 150px; height: auto;">
       <div style="margin-top: 10px;">
         <a href="https://"><img src="" alt="GitHub" style="width: 20px; height: auto;"></a>
-        <a href="https://"><img src="g" alt="LinkedIn" style="width: 20px; height: auto;"></a>
+        <a href="https://"><img src="" alt="LinkedIn" style="width: 20px; height: auto;"></a>
         <a href="mailto:"><img src="" alt="Mail" style="width: 20px; height: auto;"></a>
         <a href="https://wa.me/"><img src="" alt="WhatsApp" style="width: 20px; height: auto;"></a>
       </div>
