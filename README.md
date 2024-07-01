@@ -26,7 +26,7 @@
     </td>
   </tr>
 </table>
-<code>
+<table style="width: 100%;">
   
 ```html
 <table style="width: 100%;">
@@ -58,4 +58,4 @@
   </tr>
 </table>
 ```
-</code>
+</table>
