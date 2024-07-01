@@ -329,7 +329,7 @@ work_experience = {
   <tr>
     <td style="vertical-align: left;">
       <h3 style="margin: 0;">Universidade Federal de Santa Catarina</h3>
-      <p style="margin: 0; color: gray;"> Interexchange: Universitat Autònoma de Barcelona</p>
+      <p style="margin: 0; color: gray;"> Interexchange: Universitat Autònoma de Barcelona (UAB)</p>
       <p style="margin: 0; color: gray;">Bachelor's in Economics</p>
       <p style="margin: 0; color: gray;">03/2014 - 08/2018</p>
       <ul style="padding-left: 0px;">
