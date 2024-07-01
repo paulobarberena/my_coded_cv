@@ -165,73 +165,71 @@ personal_info = [
 <table>
   <tr>
     <td style="vertical-align: top;">
-      <h3 style="margin: 0;">Pico Alto (iFood)</h3>
-      <p style="margin: 0; color: gray;">Data Analyst (Contract)</p>
-      <p style="margin: 0;">Dates: 01/2024 - Present</p>
+      <h3 style="margin: 0;">company</h3>
+      <p style="margin: 0; color: gray;">job title</p>
+      <p style="margin: 0;">Dates: start date - Present</p>
       <ul style="padding-left: 0px;">
-        <li>Conducted business analysis to address excessive expenditures on marketing, suppliers, and intermediation costs, resulting in cost savings</li>
-        <li>Resolved unpredictability in sales and cooling offs by eliminating unused labor and food waste</li>
-        <li>Recognized as iFood's super restaurant for outstanding performance</li>
-        <li>Gathered data through API integration from POS systems, bank account transactions, and advertiser accounts.</li>
-        <li>Cleaned, manipulated, and processed data using Python, R programming languages, and Excel.</li>
-        <li>Utilized statistical analysis to validate trends and retrieve reference data from SQL databases.</li>
-        <li>Developed dashboards on Microsoft Power BI to deliver insights to stakeholders.</li>
-        <li>Achieved a 10% reduction in delivery charges and increased sales conversion rate from 3% to 12%.</li>
-        <li>Decreased CPC on Meta Ads by 30% and achieved 20% more leads on direct channels.</li>
+        <li>responsibilities</li>
+        <li>challenges</li>
+        <li>approach</li>
+        <li>approach</li>
+        <li>approach</li>
+        <li>approach</li>
+        <li>achievement</li>
+        <li>achievement</li>
+        <li>achievement</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <h3 style="margin: 0;">Inca Sushi (iFood)</h3>
-      <p style="margin: 0; color: gray;">Data Analyst (Self-Employed)</p> 
-      <p style="margin: 0;">Dates: 01/2021 - 01/2022</p>
+      <h3 style="margin: 0;">company</h3>
+      <p style="margin: 0; color: gray;">job title</p> 
+      <p style="margin: 0;">Dates: start date - end date</p>
       <ul style="padding-left: 0px;">
-        <li>Launched a ghost kitchen in a small town with limited resources and specialized cuisine, establishing a unique market presence</li>
-        <li>Conducted market research by analyzing population census data and real estate listings to identify key demographic and economic factors</li>
-        <li>Utilized Python and Excel to clean and process data, and Tableau for data visualization and analysis</li>
-        <li>Identified a cost-effective kitchen location, reducing rent expenses to only 5% of total revenue</li>
-        <li>Relocated to a better neighborhood, resulting in a 6x increase in daily orders and a peak conversion rate of 20%.</li>
-        <li>Implemented menu engineering techniques to optimize average ticket value and customer satisfaction, achieving a rating of 4.8/5</li>
-        <li>Generated over 1 million BRL in gross income through successful operation and delivery of more than 10,000 orders</li>
-        <li>Recognized as a top-performing restaurant by iFood</li>
+        <li>responsibilities</li>
+        <li>challenges</li>
+        <li>approach</li>
+        <li>approach</li>
+        <li>approach</li>
+        <li>approach</li>
+        <li>achievement</li>
+        <li>achievement</li>
+        <li>achievement</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <p style="margin: 0; color: gray;">Marketing Analyst (Self-Employed)</p>
-      <p style="margin: 0; 01/2022 - 01/2023;">Dates: 01/2022 - 01/2023</p>
+      <p style="margin: 0; color: gray;">job title</p>
+      <p style="margin: 0; 01/2022 - 01/2023;">Dates: start date - end date</p>
       <ul style="padding-left: 0px;">
-        <li>Created sales strategies to drive customer traffic to the company's e-commerce platform, eliminating the need for intermediaries and significantly enhancing revenue streams.</li>
-        <li>Implemented CRM systems to develop tailored customer lists tracked through Facebook Pixel events manager for targeted marketing efforts.</li>
-        <li>Evaluated and optimized creative content and graphic design using Adobe Photoshop and SEO techniques to conduct comprehensive market research.</li>
-        <li>Created paid advertising campaigns utilizing top-performing organic posts to maximize reach and identify potential customers.</li>
-        <li>Conducted demographic testing at the ad set level targeting specific age, gender, and distance parameters with CTAs leading to WhatsApp or Instagram DMs.</li>
-        <li>Implemented compelling offers to mitigate seasonality in sales and enhance customer engagement.</li>
-        <li>Successfully generated 4000 leads from WhatsApp and increased direct sales by 40% to boost overall revenue.</li>
-        <li>Recognized as iFood's super restaurant for exceptional sales performance and customer service excellence.</li>
+        <li>responsibilities</li>
+        <li>challenges</li>
+        <li>approach</li>
+        <li>approach</li>
+        <li>approach</li>
+        <li>approach</li>
+        <li>achievement</li>
+        <li>achievement</li>
+        <li>achievement</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top;">
-      <p style="margin: 0; color: gray;">Project Manager (Self-Employed)</p>
-      <p style="margin: 0;">Dates: 01/2023 - 01/2024</p>
+      <p style="margin: 0; color: gray;">job title</p>
+      <p style="margin: 0;">Dates: start date - end date</p>
       <ul style="padding-left: 0px;">
-        <li>Managed inflation on inputs, navigated through layoffs, and recruited employees on a regular basis to maintain operational efficiency</li>
-        <li>Secured credit to finance initial investment in 2021 and utilized strategic credit to cover labor obligations</li>
-        <li>Strategically removed top 10 unpopular dishes and eliminated menu items requiring unique ingredients</li>
-        <li>Standardized menu prices according to Omnes' principles and increased median value</li>
-        <li>Introduced salmon, vegetarian menus, customizable combos, and culinary arts techniques to enhance value perception</li>
-        <li>Negotiated with suppliers to extend invoice payment terms, alleviating liquidity constraints</li>
-        <li>Implemented food additives and safety measures to increase durability of sauces, mayonnaise, fish, and seafood</li>
-        <li>Utilized automated systems to synchronize sales, recipe cards, and supply purchase receipts into CRM operations system</li>
-        <li>Increased productive capacity to streamline food service operations management and reduce delivery times</li>
-        <li>Reduced Food Cost to 23% in most dishes, significantly cutting monetary outflow to suppliers</li>
-        <li>Raised average ticket price from 80 BRL to 100 BRL, targeting a quality-conscious customer base</li>
-        <li>Improved financial stability by focusing on quality of service, resulting in a 16% conversion rate</li>
-        <li>Successfully settled financial liabilities and maintained a comfortable financial position by selling kitchen equipment to other entrepreneurs</li>
+        <li>responsibilities</li>
+        <li>challenges</li>
+        <li>approach</li>
+        <li>approach</li>
+        <li>approach</li>
+        <li>approach</li>
+        <li>achievement</li>
+        <li>achievement</li>
+        <li>achievement</li>
       </ul>
     </td>
   </tr>
