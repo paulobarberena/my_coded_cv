@@ -5,7 +5,7 @@
       <div style="margin-top: 10px;">
         <a href="https://github.com/luisvinatea">GitHub</a> | <a href="https://linkedin.com/in/luisvinatea">LinkedIn</a><br>
         <a href="mailto:luisvinateabarberena@gmail.com">Mail</a> | <a href="https://wa.me/+5548988552904">WhatsApp</a><br>
-        <a href="https://maps.app.goo.gl/9fFpEyAD8WgabwmK7">Location 1</a> | <a href="https://maps.app.goo.gl/AbScoAQwju7Jgt5A9">Location 2</a>
+        <a href="https://maps.app.goo.gl/9fFpEyAD8WgabwmK7">Location</a>
       </div>
     </td>
     <td style="vertical-align: top;">
