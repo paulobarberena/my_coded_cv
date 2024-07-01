@@ -1,9 +1,32 @@
 ## Calculating my overall GPA from 3 different grading scales (Spain, Peru and Brazil)
 
-### Combined Cumulative GPA: 3.31  
-### Total Hours Studied: 5514
+**Combined Cumulative GPA: 3.31**    
+**Total Hours Studied: 5514**
 
-[View Education Table](df_education.csv)
+### Top 20 Grades
+
+| Course                                    | Hours | Credits | Institution                                   | Grade (USA) |
+|-------------------------------------------|-------|---------|-----------------------------------------------|-------------|
+| Special Topics - Development Area         | 72    | 4.0     | Universidade Federal de Santa Catarina        | 4.0         |
+| Public Law Institutions                   | 36    | 2.0     | Universidade Federal de Santa Catarina        | 4.0         |
+| Economic Law                              | 36    | 2.0     | Universidade Federal de Santa Catarina        | 4.0         |
+| Fundamentals of Administration            | 54    | 3.0     | Le Cordon Bleu Perú                           | 4.0         |
+| Food Quality Management                   | 36    | 2.0     | Le Cordon Bleu Perú                           | 4.0         |
+| "Diagnosis, Planning, and Control"        | 90    | 5.0     | OBS Business School                           | 3.93        |
+| International Finance                     | 90    | 5.0     | OBS Business School                           | 3.92        |
+| Information Systems                       | 90    | 5.0     | OBS Business School                           | 3.84        |
+| Contemporary Brazilian Economy            | 72    | 4.0     | Universidade Federal de Santa Catarina        | 3.8         |
+| Accounting and Financial Statement Analysis I | 72 | 4.0 | Universidade Federal de Santa Catarina        | 3.8         |
+| General Economic History                  | 72    | 4.0     | Universidade Federal de Santa Catarina        | 3.8         |
+| Financial Department                      | 90    | 5.0     | OBS Business School                           | 3.77        |
+| Investment Selection                      | 90    | 5.0     | OBS Business School                           | 3.77        |
+| Environment and Sustainable Development   | 36    | 2.0     | Le Cordon Bleu Perú                           | 3.77        |
+| Bromatology                               | 54    | 3.0     | Le Cordon Bleu Perú                           | 3.77        |
+| Treasury Management                       | 90    | 5.0     | OBS Business School                           | 3.74        |
+| Business Valuation                        | 90    | 5.0     | OBS Business School                           | 3.74        |
+| Funding Sources                           | 90    | 5.0     | OBS Business School                           | 3.71        |
+| Master's Final Project                    | 180   | 10.0    | OBS Business School                           | 3.68        |
+| Mergers and Acquisitions                  | 90    | 5.0     | OBS Business School                           | 3.65        |
 
 
 
