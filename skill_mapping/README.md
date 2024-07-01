@@ -1,5 +1,6 @@
 ## Job Compatibility by Total Credits in Educational Path
 
+![Job Titles Chart](plots/job_titles.png)
 
 
 
