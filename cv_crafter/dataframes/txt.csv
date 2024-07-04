@@ -1,111 +1,111 @@
-Attribute,Count,Datetime
-Characters,12,False
-Characters, 12,False
-Characters, 30, False
-Characters, 35, False
-Characters, 37, False
-Characters, 28, False
-Characters, 41, False
-Characters, 41, False
-Characters, 67, False
-Characters, 70, False
-Characters, 56, False
-Characters, 124, False
-Characters, 127, False
-Characters, 78, False
-Characters, 90, False
-Characters, 148, False
-Characters, 23, False
-Characters, 17, False
-Characters, 139, False
-Characters, 98, False
-Characters, 67, False
-Characters, 107, False
-Characters, 90, False
-Characters, 96, False
-Characters, 79, False
-Characters, 98, False
-Characters, 82, False
-Characters, 175, False
-Characters, 17, True
-Characters, 127, False
-Characters, 136, False
-Characters, 101, False
-Characters, 99, False
-Characters, 113, False
-Characters, 128, False
-Characters, 114, False
-Characters, 51, False
-Characters, 17, True
-Characters, 173, False
-Characters, 136, False
-Characters, 142, False
-Characters, 128, False
-Characters, 153, False
-Characters, 95, False
-Characters, 94, False
-Characters, 105, False
-Characters, 17, True
-Characters, 134, False
-Characters, 110, False
-Characters, 87, False
-Characters, 83, False
-Characters, 115, False
-Characters, 93, False
-Characters, 111, False
-Characters, 119, False
-Characters, 105, False
-Characters, 95, False
-Characters, 96, False
-Characters, 101, False
-Characters, 120, False
-Characters, 117, False
-Characters, 188, False
-Characters, 29, False
-Characters, 37, False
-Characters, 28, False
-Characters, 23, False
-Characters, 43, False
-Characters, 111, False
-Characters, 32, False
-Characters, 11, False
-Characters, 17, False
-Characters, 174, False
-Characters, 40, False
-Characters, 23, False
-Characters, 16, False
-Characters, 17, False
-Characters, 25, False
-Characters, 19, False
-Characters, 16, False
-Characters, 12, False
-Characters, 6, False
-Characters, 1, False
-Characters, 3, False
-Characters, 12, False
-Characters, 5, False
-Characters, 11, False
-Characters, 3, False
-Characters, 7, False
-Characters, 8, False
-Characters, 12, False
-Characters, 10, False
-Characters, 5, False
-Characters, 4, False
-Characters, 3, False
-Characters, 10, False
-Characters, 18, False
-Characters, 17, False
-Characters, 19, False
-Characters, 18, False
-Characters, 15, False
-Characters, 18, False
-Characters, 17, False
-Characters, 8, False
-Characters, 16, False
-Characters, 11, False
-Characters, 16, False
-Characters, 12, False
-Characters, 109, False
-Characters, 108, False
-Characters, 123, False
+Datatype,Count,Datetime
+str,12,False
+str,12,False
+str,30,False
+str,35,False
+str,37,False
+str,28,False
+str,41,False
+str,41,False
+str,67,False
+str,70,False
+str,56,False
+str,124,False
+str,127,False
+str,78,False
+str,90,False
+str,148,False
+str,23,False
+str,17,False
+str,139,False
+str,98,False
+str,67,False
+str,107,False
+str,90,False
+str,96,False
+str,79,False
+str,98,False
+str,82,False
+str,175,False
+str,17,True
+str,127,False
+str,136,False
+str,101,False
+str,99,False
+str,113,False
+str,128,False
+str,114,False
+str,51,False
+str,17,True
+str,173,False
+str,136,False
+str,142,False
+str,128,False
+str,153,False
+str,95,False
+str,94,False
+str,105,False
+str,17,True
+str,134,False
+str,110,False
+str,87,False
+str,83,False
+str,115,False
+str,93,False
+str,111,False
+str,119,False
+str,105,False
+str,95,False
+str,96,False
+str,101,False
+str,120,False
+str,117,False
+str,188,False
+str,29,False
+str,37,False
+str,28,False
+str,23,False
+str,43,False
+str,111,False
+str,32,False
+str,11,False
+str,17,False
+str,174,False
+str,40,False
+str,23,False
+str,16,False
+str,17,False
+str,25,False
+str,19,False
+str,16,False
+str,12,False
+str,6,False
+str,1,False
+str,3,False
+str,12,False
+str,5,False
+str,11,False
+str,3,False
+str,7,False
+str,8,False
+str,12,False
+str,10,False
+str,5,False
+str,4,False
+str,3,False
+str,10,False
+str,18,False
+str,17,False
+str,19,False
+str,18,False
+str,15,False
+str,18,False
+str,17,False
+str,8,False
+str,16,False
+str,11,False
+str,16,False
+str,12,False
+str,109,False
+str,108,False
+str,123,False
