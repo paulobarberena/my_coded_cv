@@ -59,144 +59,244 @@
 
 ### Full HTML Version
 ```html
-<table style="border-collapse: collapse; width: 78.426%; height: 1874.2px; border-color: #ffffff; float: left;">
-  <tbody>
-    <tr style="background-color: #000000; border-color: #ffffff; border-style: none; height: 1874.2px;">
-      <td style="width: 16.4412%; height: 1874.2px; border-color: #000000; background-color: #34495e; vertical-align: top;">
-        <div style="text-align: center;">
-          <img src="https://media.licdn.com/dms/image/D4E03AQH56lHrlfeoZg/profile-displayphoto-shrink_200_200/0/1708397386087?e=1725494400&amp;v=beta&amp;t=k4TkmRyaASW0BKg1QLP2umZL1IMNlM54kifpUXByXa8" alt="Your Photo" height="169" width="169" style="display: block; margin-left: auto; margin-right: auto;" />
-          <p><strong><a href="https://github.com/yourusername" target="_blank" title="GitHub Profile" rel="noopener" style="color: #95a5a6;">
-            <svg height="39" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="39" data-view-component="true" class="octicon octicon-mark-github v-align-middle color-fg-default">
-              <path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
-            </svg>
-            <span style="font-size: 12pt;">https://github.com/yourusername</span></a></strong></p>
-          <p><strong><a href="https://linkedin.com/in/yourusername" title="LinkedIn Profile" target="_blank" rel="noopener" style="color: #95a5a6;">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="39" height="39" focusable="false">
-              <path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"></path>
-            </svg>
-            <span style="font-size: 12pt;">https://linkedin.com/in/yourusername</span></a></strong></p>
-          <p><strong><a href="https://wa.me/yourphonenumber" title="Chat with Me" target="_blank" rel="noopener" style="color: #95a5a6;">
-            <svg xmlns="http://www.w3.org/2000/svg" width="39" height="39" viewBox="0 0 39 39">
-              <path fill="#00E676" d="M10.7 32.8l.6.3c2.5 1.5 5.3 2.2 8.1 2.2 8.8 0 16-7.2 16-16 0-4.2-1.7-8.3-4.7-11.3s-7-4.7-11.3-4.7c-8.8 0-16 7.2-15.9 16.1 0 3 .9 5.9 2.4 8.4l.4.6-1.6 5.9 6-1.5z"></path>
-              <path fill="#FFF" d="M32.4 6.4C29 2.9 24.3 1 19.5 1 9.3 1 1.1 9.3 1.2 19.4c0 3.2.9 6.3 2.4 9.1L1 38l9.7-2.5c2.7 1.5 5.7 2.2 8.7 2.2 10.1 0 18.3-8.3 18.3-18.4 0-4.9-1.9-9.5-5.3-12.9zM19.5 34.6c-2.7 0-5.4-.7-7.7-2.1l-.6-.3-5.8 1.5L6.9 28l-.4-.6c-4.4-7.1-2.3-16.5 4.9-20.9s16.5-2.3 20.9 4.9 2.3 16.5-4.9 20.9c-2.3 1.5-5.1 2.3-7.9 2.3zm8.8-11.1l-1.1-.5s-1.6-.7-2.6-1.2c-.1 0-.2-.1-.3-.1-.3 0-.5.1-.7.2 0 0-.1.1-1.5 1.7-.1.2-.3.3-.5.3h-.1c-.1 0-.3-.1-.4-.2l-.5-.2c-1.1-.5-2.1-1.1-2.9-1.9-.2-.2-.5-.4-.7-.6-.7-.7-1.4-1.5-1.9-2.4l-.1-.2c-.1-.1-.1-.2-.2-.4 0-.2 0-.4.1-.5 0 0 .4-.5.7-.8.2-.2.3-.5.5-.7.2-.3.3-.7.2-1-.1-.5-1.3-3.2-1.6-3.8-.2-.3-.4-.4-.7-.5h-1.1c-.2 0-.4.1-.6.1l-.1.1c-.2.1-.4.3-.6.4-.2.2-.3.4-.5.6-.7.9-1.1 2-1.1 3.1 0 .8.2 1.6.5 2.3l.1.3c.9 1.9 2.1 3.6 3.7 5.1l.4.4c.3.3.6.5.8.8 2.1 1.8 4.5 3.1 7.2 3.8.3.1.7.1 1 .2h1c.5 0 1.1-.2 1.5-.4.3-.2.5-.2.7-.4l.2-.2c.2-.2.4-.3.6-.5s.4-.4.5-.6c.2-.4.3-.9.4-1.4v-.7s-.1-.1-.3-.2z"></path>
-            </svg>
-            <span style="font-size: 12pt;">https://wa.me/yourphonenumber</span></a></strong></p>
-          <p><strong><a href="mailto:youremail@gmail.com" title="My Inbox" target="_blank" style="color: #95a5a6;" rel="noopener">
-            <img alt="Gmail icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" decoding="async" width="39" height="39" style="float: left;" />
-            <span style="font-size: 12pt;">youremail@gmail.com</span></a></strong></p>
-        </div>
-        <hr />
-        <h5 style="text-align: center;"><span style="color: #ffffff; font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">Languages</span></h5>
-        <p style="text-align: center;"><span style="color: #ffffff; font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;">[Native Language] (Native), [Second Language] (Native), English (C1)</span></p>
-        <hr />
-        <h5 style="text-align: center;"><span style="color: #ffffff; font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">Skills</span></h5>
-        <p style="text-align: center;">
-          <span style="color: #ffffff; font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;">
-            <span style="color: #7e8c8d;"><strong>Python</strong></span>, Meta Ads, <span style="color: #7e8c8d;"><strong>Excel</strong></span>, <span style="color: #7e8c8d;"><strong>SQL</strong></span>, <span style="color: #7e8c8d;"><strong>PowerBI</strong></span>, CRM, Analytical Reasoning, <span style="color: #7e8c8d;"><strong>Public Speaking</strong></span>,
-            International Exposure, Team Leadership, <span style="color: #7e8c8d;"><strong>Recruitment and Training</strong></span>, Conflict Resolution, <span style="color: #7e8c8d;"><strong>Customer Service</strong></span>, Negotiation, <span style="color: #7e8c8d;"><strong>Cash Flow Management</strong></span>, Financial Accounting,
-            Inventory Management, Purchases, <span style="color: #7e8c8d;"><strong>KPI Analysis</strong></span>, Lead Generation, SEO Optimization
-          </span>
-        </p>
-        <hr />
-        <h5 style="text-align: center;"><span style="color: #ffffff; font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">Education</span></h5>
-        <p style="text-align: center;"><span style="color: #95a5a6; font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;"><a href="https://github.com/yourusername/my_coded_cv/tree/main/gpa" title="University Courses" target="_blank" style="color: #95a5a6;" rel="noopener">View Records</a></span></p>
-        <p><span style="color: #34495e; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">https://github.com/yourusername/my_coded_cv/tree/main/gpa</span></p>
-        <p style="text-align: center;"><span style="color: #ffffff; font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #95a5a6;">Overall GPA: 3.31</span><br />Total Credits: 305</span></p>
-        <hr />
-        <div style="display: flex; align-items: center; margin-bottom: 10px;">
-          <img width="69" src="https://media.licdn.com/dms/image/C4D0BAQE1ewZX1eWeyQ/company-logo_100_100/0/1630523645730/obsbusiness_school_logo?e=1727913600&amp;v=beta&amp;t=oYPecB8ssu9MYEENl7W-25iTOD3LK3ja1jPlAGfWimQ" loading="lazy" height="69" alt="OBS Business School logo" style="margin-right: 20px;" />
-          <div>
-            <h6 style="margin: 0px; text-align: center;"><span style="color: #ffffff; font-size: 12pt; font-family: tahoma, arial, helvetica, sans-serif;">OBS (Spain)</span></h6>
-            <p style="margin: 0px; color: gray; text-align: center;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;">Partner: <span style="color: #95a5a6;">Universitat de Barcelona</span></span></p>
-            <p style="margin: 0px; color: gray; text-align: right;"><span style="color: #95a5a6; font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Master's in Corporate Finance</span></p>
-          </div>
-        </div>
-        <p style="margin: 0px; color: gray; text-align: right;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;">Dates: 04/2024 - 05/2025&nbsp;</span></p>
-        <p style="text-align: right;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;">Elected Class President</span></p>
-        <div style="display: flex; align-items: right; margin-bottom: 10px;">
-          <img width="68" src="https://media.licdn.com/dms/image/C4D0BAQFwUdIo-kEdCQ/company-logo_100_100/0/1631325834568?e=1727913600&amp;v=beta&amp;t=1vu7cYQND32514ibS579uSgO8Vg4SSV094RaP03vkqY" loading="lazy" height="68" alt="Le Cordon Bleu Per&uacute; logo" style="margin-right: 20px;" />
-          <div>
-            <h6 style="margin: 0px; text-align: center;"><span style="color: #ffffff; font-size: 12pt; font-family: tahoma, arial, helvetica, sans-serif;">ILCB (Per&uacute;)</span></h6>
-            <p style="margin: 0px; color: gray; text-align: center;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;">Internship: <span style="color: #95a5a6;">Roll Star Sushi Bar</span></span></p>
-            <p style="margin: 0px; color: gray; text-align: center;"><span style="color: #95a5a6; font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Restaurant Management</span></p>
-            <p style="margin: 0px; color: gray; text-align: center;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 13.3333px;">Dates: 03/2020 - 06/2022</span></p>
-            <p style="margin: 0px; color: gray; text-align: center;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 13.3333px;">Chef Training</span></p>
-          </div>
-        </div>
-        <div style="display: flex; align-items: center; margin-bottom: 10px;">
-          <img width="76" src="https://media.licdn.com/dms/image/D4D0BAQE_68hIfDtQDA/company-logo_100_100/0/1706540705936/ufsc_logo?e=1727913600&amp;v=beta&amp;t=MyoNQyHwWYJAQNuAjW-XvyUuZgX805asIwXftAaD1u0" loading="lazy" height="76" alt="Universidade Federal de Santa Catarina logo" style="margin-right: 20px;" />
-          <div>
-            <h6 style="margin: 0px; text-align: center;"><span style="color: #ffffff; font-size: 12pt; font-family: tahoma, arial, helvetica, sans-serif;">UFSC (Brazil)</span></h6>
-            <p style="margin: 0px; color: gray; text-align: center;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;">Interexchange</span><span style="color: #95a5a6;">:</span><span style="color: #95a5a6;"><span style="color: #ffffff;"> </span></span><span style="color: #95a5a6;">Universitat Aut&ograve;noma de Barcelona</span></span></p>
-            <p style="margin: 0px; color: gray; text-align: center;"><span style="color: #95a5a6; font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Bachelor's in Economics</span></p>
-            <p style="margin: 0px; color: gray; text-align: center;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;">Dates: 03/2014 - 08/2018</span></p>
-            <p style="margin: 0px; color: gray; text-align: center;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;">8th best GPA in the class</span></p>
-          </div>
-        </div>
-        <hr />
-        <h5 style="text-align: center;"><span style="color: #ffffff; font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">Certifications</span></h5>
-        <p style="text-align: center;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt; color: #95a5a6;"><a href="https://github.com/yourusername/my_coded_cv/blob/main/gpa/dataframes/df_certificates.csv" title="Courses Taken" target="_blank" style="color: #95a5a6;" rel="noopener">All Credentials</a></span></p>
-        <div style="display: flex; justify-content: center; align-items: center;">
-          <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="data-share-badge-id=e422d6c6-5ae2-4f27-b661-0f66758c1626. Learning. Issued by Coursera" width="97" height="97" title="https://www.credly.com/badges/b5150f12-0376-4e24-b5f6-e49828c805f8/public_url" />
-          <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/680x680/images/e9d3dcc5-e1b5-4aba-942a-9e1630ef2b02/Digital_Mar_Assoc_800.png" alt="data-share-badge-id=b5150f12-0376-4e24-b5f6-e49828c805f8. Certification. Foundational level. Issued by Meta" width="88" height="88" title="https://www.credly.com/badges/e422d6c6-5ae2-4f27-b661-0f66758c1626/public_url" />
-        </div>
-        <script type="text/javascript" async="" src="//cdn.credly.com/assets/utilities/embed.js"></script>
-        <p style="text-align: justify;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff; font-size: 10pt;">Trilha Digital - <span style="color: #95a5a6;">Santander Coders 24</span> - <span style="color: #95a5a6;">Data Science</span> - <span style="color: #7e8c8d;">Ada Tech, </span></span></span><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff; font-size: 10pt;"><span style="color: #95a5a6;">Python</span> for <span style="color: #95a5a6;">Data Science</span> - <span style="color: #95a5a6;">Anaconda Inc, </span></span></span><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff; font-size: 10pt;"><span style="color: #95a5a6;"><span style="color: #ffffff;">Explore a Career in <span style="color: #95a5a6;">SQL</span> Development</span> <span style="color: #ffffff;">-</span> LinkedIn, </span></span></span><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff; font-size: 10pt;"><span style="color: #95a5a6;"><span style="color: #ffffff;">Corporate Finance Foundations Professional Certificate -</span> Corporate Finance Institute&reg;, </span></span></span><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff; font-size: 10pt;"><span style="color: #95a5a6;"><span style="color: #ffffff;">Programming with <span style="color: #95a5a6;">Python</span> Professional Certificate</span> <span style="color: #ffffff;">-</span> OpenEDG Python Institute, </span></span></span><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff; font-size: 10pt;"><span style="color: #95a5a6;"><span style="color: #ffffff;"><span style="color: #95a5a6;">Customer Service</span> Professional Certificate</span> <span style="color: #ffffff;">-</span> Zendesk, </span></span></span><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff; font-size: 10pt;"><span style="color: #95a5a6;"><span style="color: #ffffff;">Career Essentials in <span style="color: #95a5a6;">Data Analysis</span> -</span> Microsoft, </span></span></span><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff; font-size: 10pt;"><span style="color: #95a5a6;"><span style="color: #ffffff;">Career Essentials in <span style="color: #95a5a6;">Software Development</span> - </span>Microsoft&nbsp;</span></span></span></p>
-      </td>
-      <td style="width: 83.598%; height: 1874.2px; border-color: #34495e; background-color: #000000; vertical-align: top;">
-        <h4 style="margin: 0px; text-align: justify; padding-left: 40px;"><span style="color: #ffffff; font-size: 24pt; font-family: tahoma, arial, helvetica, sans-serif;">[Your Name]</span></h4>
-        <h4 style="margin: 0px; text-align: justify; padding-left: 40px;"><span style="color: #7e8c8d; font-family: tahoma, arial, helvetica, sans-serif;">Data Analyst</span></h4>
-        <p style="text-align: justify; padding-left: 40px;"></p>
-        <p style="text-align: justify; padding-left: 40px;"><span style="font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;"><span style="color: #95a5a6;">Administrator and analyst with</span> <span style="color: #95a5a6;">5 years of experience</span> in the market. </span><span style="color: #ffffff;">Born in [Country], lived in [Countries]. </span><span style="color: #ffffff;">Holds a <span style="color: #95a5a6;">degree</span> in <span style="color: #95a5a6;">Economics</span> and a diploma in <span style="color: #95a5a6;">Management</span>. </span><span style="color: #ffffff;">Currently pursuing an MBA in <span style="color: #95a5a6;">Corporate Finance</span> at <span style="color: #95a5a6;">OBS Business School. </span></span><span style="color: #ffffff;"><span style="color: #95a5a6;">Former</span> <span style="color: #95a5a6;">restaurant owner</span> with deep knowledge of delivery operations and <span style="color: #95a5a6;">sales strategy</span>. </span><span style="color: #ffffff;">Able to provide insights as a multilingual and multidisciplinary professional. </span><span style="color: #ffffff;"><span style="color: #95a5a6;">Works as a consultant</span>, helping small businesses make data-driven decisions.</span></span></p>
-        <hr />
-        <h5 style="margin: 0px; text-align: left; padding-left: 40px;"><span style="color: #ffffff; font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">Experience</span></h5>
-	<h5 style="margin: 0px; text-align: left; padding-left: 40px;"><span style="span style="color: #000000; font-size: 8pt;"><span style="color: #000000;">.</span></h5>
-        <div style="display: flex; align-items: center; padding-left: 40px;">
-          <img width="77" src="https://media.licdn.com/dms/image/D4E0BAQHlfSwYvsjBHw/company-logo_100_100/0/1719236502026?e=1727913600&amp;v=beta&amp;t=ZHKo57QWDdUFTs5Zv3pion6-FRoh53HaYPbvbynDgqk" loading="lazy" height="77" alt="Pico Alto (iFood) logo" style="margin-right: 20px;" />
-          <div>
-            <h4 style="margin: 0px; text-align: left;"><span style="color: #ffffff; font-size: 14pt; font-family: tahoma, arial, helvetica, sans-serif;">Pico Alto (iFood)</span></h4>
-            <h4 style="margin: 0px; color: gray; text-align: left;"><span style="color: #95a5a6; font-size: 12pt; font-family: tahoma, arial, helvetica, sans-serif;">Data Analyst (Contract)</span></h4>
-            <h4 style="margin: 0px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Dates: 01/2024 - Present</span></h4>
-          </div>
-        </div>
-        <p style="padding-left: 40px; text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;">Conducted business analysis to address excessive expenditures on marketing, suppliers, and intermediation costs, resulting in cost savings. </span><span style="color: #ffffff;"><span style="color: #95a5a6;">Resolved unpredictability in sales</span> and cooling offs, thus <span style="color: #95a5a6;">eliminating unused labor and food waste</span></span></span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;"><span style="color: #95a5a6;">Recognized as iFood's super restaurant for outstanding performance</span>. </span><span style="color: #ffffff;">Gathered data through <span style="color: #95a5a6;">API</span> integration from <span style="color: #95a5a6;">POS systems</span>, bank account transactions, and advertiser accounts. </span><span style="color: #ffffff;">Cleaned, manipulated, and processed data using<span style="color: #95a5a6;"> Python, R programming languages, and Excel</span>. </span><span style="color: #ffffff;">Utilized statistical analysis to validate trends and retrieve reference data from<span style="color: #95a5a6;"> SQL databases</span>.</span></span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;">Developed dashboards on <span style="color: #95a5a6;">Microsoft Power BI</span> to deliver insights to stakeholders. </span><span style="color: #ffffff;"><span style="color: #95a5a6;">Achieved a 10% reduction in delivery charges</span> and <span style="color: #95a5a6;">increased</span> sales <span style="color: #95a5a6;">conversion rate</span> from 3% <span style="color: #95a5a6;">to 12%.</span></span></span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #95a5a6;">Decreased CPC</span> on Meta Ads by <span style="color: #95a5a6;">30%</span> and <span style="color: #95a5a6;">achieved 20%</span> more<span style="color: #95a5a6;"> leads</span> on direct channels.</span></p>
-        <div style="display: flex; align-items: center; padding-left: 40px;">
-          <img width="80" src="https://media.licdn.com/dms/image/D560BAQGmmApRpgMTjQ/company-logo_100_100/0/1708439490060?e=1727913600&amp;v=beta&amp;t=l1_eQNeUkNatiRdSxfDpM_6Cc4aViblogVCx-RSeigM" loading="lazy" height="80" alt="Inca Sushi (iFood) logo" style="margin-right: 20px;" />
-          <div>
-            <h4 style="margin: 0px; text-align: left;"><span style="color: #000000; font-size: 36pt; font-family: tahoma, arial, helvetica, sans-serif;"></span></h4>
-            <h4 style="margin: 0px; text-align: left;"><span style="color: #ffffff; font-size: 14pt; font-family: tahoma, arial, helvetica, sans-serif;">Inca Sushi (iFood)</span></h4>
-            <h4 style="margin: 0px; color: gray; text-align: left;"><span style="color: #95a5a6; font-size: 12pt; font-family: tahoma, arial, helvetica, sans-serif;">Data Analyst (Self-Employed)</span></h4>
-            <h4 style="margin: 0px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Dates: 01/2021 - 01/2022</span></h4>
-            <h4 style="margin: 0px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;"> <a href="https://public.tableau.com/app/profile/yourusername/vizzes" title="Data Analyst Work Sample" target="_blank" rel="noopener"> <span style="color: #95a5a6;"><span style="font-size: 10pt;">View Sample</span></span></a></span></h4>
-          </div>
-        </div>
-        <p style="text-align: left; padding-left: 40px;"><span style="color: #000000; font-size: 8pt;"><span style="color: #000000;">https://public.tableau.com/app/profile/yourusername/vizzes</span></span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;"><span style="color: #95a5a6;">Launched a ghost kitchen in a small town</span> with limited resources and specialized cuisine, establishing a unique market presence. </span><span style="color: #ffffff;"><span style="color: #95a5a6;">Conducted market research by analyzing population census data</span> and real estate listings to identify key demographic and economic factors</span></span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;">Utilized <span style="color: #95a5a6;">Python</span> and <span style="color: #95a5a6;">Excel</span> to clean and process data, and <span style="color: #95a5a6;">Tableau</span> for data visualization and analysis. </span><span style="color: #ffffff;"><span style="color: #95a5a6;">Identified a cost-effective kitchen location</span>, reducing <span style="color: #95a5a6;">rent expenses</span> to only <span style="color: #95a5a6;">5%</span> of total revenue</span></span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;">Relocated to a better neighborhood, resulting in a <span style="color: #95a5a6;">6x increase in daily orders</span> and a peak <span style="color: #95a5a6;">conversion rate of 20%</span>. </span><span style="color: #ffffff;">Implemented menu engineering techniques to optimize average ticket value and <span style="color: #95a5a6;">customer satisfaction</span>, achieving a <span style="color: #95a5a6;">rating of 4.8/5</span></span></span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;">Generated over <span style="color: #95a5a6;">1 million BRL</span> in gross income through successful operation and delivery of more than <span style="color: #95a5a6;">10,000 orders</span>. Recognized as a top-performing restaurant by iFood</span></p>
-        <p style="padding-left: 40px; text-align: left;"></p>
-        <h4 style="margin: 0px; color: gray; text-align: left; padding-left: 40px;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="color: #95a5a6;">Marketing Analyst (Self-Employed)</span></strong></span></h4>
-        <h4 style="margin: 0px; text-align: left; padding-left: 40px;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Dates: 01/2022 - 01/2023</span></h4>
-        <h4 style="margin: 0px; text-align: left; padding-left: 40px;"><span style="color: #95a5a6; font-family: tahoma, arial, helvetica, sans-serif;"><a href="https://github.com/yourusername/marketing_tools">View Sample:</a> <span style="color: #000000; font-size: 8pt;">https://github.com/yourusername/marketing_tools</span></span></h4>
-        <p style="padding-left: 40px; text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;"><span style="color: #95a5a6;">Created sales strategies to drive customer traffic to the company's e-commerce platform</span>, eliminating the need for intermediaries and significantly enhancing revenue streams. </span><span style="color: #ffffff;"><span style="color: #95a5a6;">Implemented CRM systems to develop tailored customer lists tracked through Facebook Pixel</span> events manager for targeted marketing efforts.</span></span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;"><span style="color: #95a5a6;">Evaluated and optimized creative content and graphic design using Adobe Photoshop and SEO techniques</span> to conduct comprehensive market research. </span><span style="color: #ffffff;"><span style="color: #95a5a6;">Created paid advertising campaigns</span> by analyzing <span style="color: #95a5a6;">top-performing organic posts</span> to maximize reach and identify potential customers.</span></span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;"><span style="color: #95a5a6;">Conducted demographic testing</span> at the ad set level targeting specific age, gender, and distance parameters with CTAs leading to WhatsApp or Instagram DMs. </span><span style="color: #ffffff;"><span style="color: #95a5a6;">Implemented compelling offers to mitigate seasonality in sales</span> and enhance customer engagement.</span></span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;"><span style="color: #95a5a6;">Generated 4000 leads from WhatsApp</span> and <span style="color: #95a5a6;">increased direct sales by 40%</span> to boost overall revenue.<span style="color: #95a5a6;"> </span></span><span style="color: #ffffff;"><span style="color: #95a5a6;">Recognized as iFood's super restaurant</span> for exceptional sales performance and customer service excellence.</span></span></p>
-        <h4 style="margin: 0px; color: gray; text-align: left; padding-left: 40px;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt;"><strong><span style="color: #95a5a6;">Project Manager (Self-Employed)</span></strong></span></h4>
-        <h4 style="margin: 0px; text-align: left; padding-left: 40px;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Dates: 01/2023 - 01/2024</span></h4>
-        <p style="padding-left: 40px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;">Managed inflation on inputs, navigated through layoffs, and recruited employees on a regular basis to maintain operational efficiency. </span><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;">Secured credit to finance initial investment in 2021 and utilized strategic credit to cover labor obligations. <span style="color: #95a5a6;">Removed top 10 unpopular dishes and eliminated menu items requiring unique ingredients.</span></span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #95a5a6;">Standardized menu prices according to Omnes' principles</span> and <span style="color: #95a5a6;">increased median value.</span> </span><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;">Introduced salmon, vegetarian menus, customizable combos, and culinary arts techniques to enhance value perception</span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #95a5a6;">Negotiated with suppliers to extend invoice payment terms, alleviating liquidity constraints</span>. </span><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;">Implemented food additives and safety measures to increase durability of sauces, mayonnaise, fish, and seafood</span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #95a5a6;">Utilized automated systems to synchronize sales, recipe cards, and supply purchase receipts into CRM operations system</span>. </span><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;">Increased productive capacity to streamline food service operations management and reduce delivery times</span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #95a5a6;">Reduced Food Cost to 23% </span>in most dishes, significantly cutting monetary outflow to suppliers. </span><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #95a5a6;">Raised average ticket price from 80 BRL to 100 BRL</span>, targeting a quality-conscious customer base</span></p>
-        <p style="padding-left: 40px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #95a5a6;">Improved financial stability by focusing on quality of service, resulting in a 16% conversion rate.</span> Settled financial liabilities and maintained a comfortable position by selling kitchen equipment to other entrepreneur</span></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<p></p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Template</title>
+    <style>
+        body {
+            font-family: 'Tahoma', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+        }
+        .header img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+        }
+        .header .info {
+            flex-grow: 1;
+            padding-left: 20px;
+        }
+        .header .info h1 {
+            margin: 0;
+            font-size: 18pt;
+            color: #000;
+        }
+        .header .info h2 {
+            margin: 0;
+            font-size: 14pt;
+            color: #666;
+        }
+        .header .contact-info {
+            text-align: right;
+        }
+        .header .contact-info a {
+            display: block;
+            color: #1a0dab;
+            text-decoration: none;
+            font-size: 8pt;
+        }
+        .section {
+            margin-top: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 5px;
+            color: #000;
+            font-size: 14pt;
+        }
+        .section .content {
+            margin-top: 10px;
+            font-size: 8pt;
+        }
+        .skills, .education, .experience, .projects, .certifications {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .skills .item, .education .item, .experience .item, .projects .item, .certifications .item {
+            flex: 1;
+            min-width: 200px;
+            margin-right: 20px;
+        }
+        .item:last-child {
+            margin-right: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <table style="border-collapse: collapse; width: 100%; border-color: #ffffff;">
+            <tbody>
+                <tr style="background-color: #000000; border-color: #ffffff; border-style: none;">
+                    <td style="width: 40%; border-color: #000000; background-color: #34495e; vertical-align: top;">
+                        <div style="text-align: center;">
+                            <img src="PROFILE_IMAGE_URL" alt="Profile Picture" height="169" width="169" style="display: block; margin-left: auto; margin-right: auto;" />
+                            <p><strong><a href="GITHUB_PROFILE_URL" target="_blank" title="GitHub Profile" rel="noopener" style="color: #95a5a6;"><span style="font-size: 12pt;">GitHub Profile</span></a></strong></p>
+                            <p><strong><a href="LINKEDIN_PROFILE_URL" title="LinkedIn Profile" target="_blank" rel="noopener" style="color: #95a5a6;"><span style="font-size: 12pt;">LinkedIn Profile</span></a></strong></p>
+                            <p><strong><a href="WHATSAPP_URL" title="Chat with Me" target="_blank" rel="noopener" style="color: #95a5a6;"><span style="font-size: 12pt;">WhatsApp</span></a></strong></p>
+                            <p><strong><a href="MAILTO_URL" title="My Inbox" target="_blank" style="color: #95a5a6;" rel="noopener"><span style="font-size: 12pt;">Email</span></a></strong></p>
+                            <hr />
+                            <div style="width: 100%; text-align: center;">
+                                <h5><span style="color: #ffffff; font-size: 14pt; font-family: tahoma, arial, helvetica, sans-serif;">Skills</span></h5>
+                                <p style="color: #ffffff; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">
+                                    <strong style="color: #7e8c8d;">Languages:</strong> LANGUAGE_SKILLS
+                                    <strong style="color: #7e8c8d;">Programming:</strong> PROGRAMMING_SKILLS
+                                    <strong style="color: #7e8c8d;">Data Analysis:</strong> DATA_ANALYSIS_SKILLS
+                                    <strong style="color: #7e8c8d;">Data Visualization:</strong> DATA_VISUALIZATION_SKILLS
+                                    <strong style="color: #7e8c8d;">Machine Learning:</strong> MACHINE_LEARNING_SKILLS
+                                    <strong style="color: #7e8c8d;">Web Development:</strong> WEB_DEVELOPMENT_SKILLS
+                                    <strong style="color: #7e8c8d;">Finance:</strong> FINANCE_SKILLS
+                                    <strong style="color: #7e8c8d;">Management:</strong> MANAGEMENT_SKILLS
+                                    <strong style="color: #7e8c8d;">Marketing:</strong> MARKETING_SKILLS
+                                    <strong style="color: #7e8c8d;">Culinary Arts:</strong> CULINARY_ARTS_SKILLS
+                                </p>
+                            </div>
+                            <hr />
+                            <h5 style="text-align: center;"><span style="color: #ffffff; font-size: 14pt; font-family: tahoma, arial, helvetica, sans-serif;">Certifications</span></h5>
+                            <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">
+                                <img class="cr-badges-full-badge__img" src="CERTIFICATION_1_URL" alt="Certification 1" width="97" height="97" title="CERTIFICATION_1_TITLE" />
+                                <img class="cr-badges-full-badge__img" src="CERTIFICATION_2_URL" alt="Certification 2" width="88" height="88" title="CERTIFICATION_2_TITLE" />
+                            </div>
+                            <script type="text/javascript" async="" src="//cdn.credly.com/assets/utilities/embed.js"></script>
+                            <p style="text-align: justify; color: #ffffff; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">
+                                CERTIFICATION_DETAILS
+                            </p>
+                            <hr />
+                            <h5 style="text-align: center;"><span style="color: #ffffff; font-size: 14pt; font-family: tahoma, arial, helvetica, sans-serif;">Education</span></h5>
+                            <div style="display: flex; justify-content: space-between;">
+                                <div style="width: 48%;">
+                                    <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 10px;">
+                                        <img width="69" src="UNIVERSITY_1_LOGO_URL" loading="lazy" height="69" alt="University 1 Logo" />
+                                        <div style="text-align: left; width: 100%;">
+                                            <p style="margin: 0px; text-align: center;">
+                                                <span style="color: #ffffff; font-size: 12pt; font-family: tahoma, arial, helvetica, sans-serif;">UNIVERSITY_1_NAME</span>
+                                            </p>
+                                            <p style="margin: 0px; color: gray; text-align: center;">
+                                                <span style="color: #ffffff; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">Partner: <span style="color: #95a5a6;">PARTNER_UNIVERSITY_1</span></span>
+                                            </p>
+                                            <p style="margin: 0px; color: gray; text-align: center;">
+                                                <span style="color: #95a5a6; font-family: tahoma, arial, helvetica, sans-serif; font-size: 8pt;">DEGREE_1</span>
+                                            </p>
+                                            <p style="margin: 0px; color: gray; text-align: center;">
+                                                <span style="color: #ffffff; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">DATES_1</span>
+                                            </p>
+                                            <p style="margin: 0px; text-align: center;">
+                                                <span style="color: #ffffff; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">HONORS_1</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 10px;">
+                                        <img width="68" src="UNIVERSITY_2_LOGO_URL" loading="lazy" height="68" alt="University 2 Logo" />
+                                        <div style="text-align: left; width: 100%;">
+                                            <p style="margin: 0px; text-align: center;">
+                                                <span style="color: #ffffff; font-size: 12pt; font-family: tahoma, arial, helvetica, sans-serif;">UNIVERSITY_2_NAME</span>
+                                            </p>
+                                            <p style="margin: 0px; color: gray; text-align: center;">
+                                                <span style="color: #ffffff; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">Internship: <span style="color: #95a5a6;">INTERNSHIP_2</span></span>
+                                            </p>
+                                            <p style="margin: 0px; color: gray; text-align: center;">
+                                                <span style="color: #95a5a6; font-family: tahoma, arial, helvetica, sans-serif; font-size: 8pt;">DEGREE_2</span>
+                                            </p>
+                                            <p style="margin: 0px; color: gray; text-align: center;">
+                                                <span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 8pt;">DATES_2</span>
+                                            </p>
+                                            <p style="margin: 0px; color: gray; text-align: center;">
+                                                <span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 8pt;">HONORS_2</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div style="width: 48%;">
+                                    <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 10px;">
+                                        <img width="76" src="UNIVERSITY_3_LOGO_URL" loading="lazy" height="76" alt="University 3 Logo" />
+                                        <div style="text-align: left; width: 100%;">
+                                            <p style="margin: 0px; text-align: center;">
+                                                <span style="color: #ffffff; font-size: 12pt; font-family: tahoma, arial, helvetica, sans-serif;">UNIVERSITY_3_NAME</span>
+                                            </p>
+                                            <p style="margin: 0px; color: gray; text-align: center;">
+                                                <span style="color: #ffffff; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">Exchange: <span style="color: #95a5a6;">PARTNER_UNIVERSITY_3</span></span>
+                                            </p>
+                                            <p style="margin: 0px; color: gray; text-align: center;">
+                                                <span style="color: #95a5a6; font-family: tahoma, arial, helvetica, sans-serif; font-size: 8pt;">DEGREE_3</span>
+                                            </p>
+                                            <p style="margin: 0px; color: gray; text-align: center;">
+                                                <span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 8pt;">DATES_3</span>
+                                            </p>
+                                            <p style="margin: 0px; color: gray; text-align: center;">
+                                                <span style="color: #ffffff; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">HONORS_3</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </td>
+                    <td style="width: 60%; border-color: #34495e; background-color: #000000; vertical-align: top;">
+                        <h4 style="margin: 0px; text-align: justify; padding-left: 40px;"><span style="color: #ffffff; font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">FULL_NAME</span></h4>
+                        <h4 style="margin: 0px; text-align: justify; padding-left: 40px;"><span style="color: #7e8c8d; font-family: tahoma, arial, helvetica, sans-serif;">JOB_TITLE</span></h4>
+                        <p style="text-align: justify; padding-left: 40px;"></p>
+                        <p style="text-align: justify; padding-left: 40px;"><span style="font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;"><span style="color: #ffffff;">SUMMARY</span></p>
+                        <h5 style="margin: 0px; text-align: left; padding-left: 40px; padding-top: 10px;"><span style="color: #ffffff; font-size: 14pt; font-family: tahoma, arial, helvetica, sans-serif;">Experience</span></h5>
+                        <p></p>
+                        <div style="display: flex; align-items: center; padding-left: 40px;">
+                            <img width="77" src="COMPANY_1_LOGO_URL" loading="lazy" height="77" alt="Company 1 Logo" style="margin-right: 20px;" />
+                            <div>
+                                <h4 style="margin: 0px; text-align: left;"><span style="color: #ffffff; font-size: 14pt; font-family: tahoma, arial, helvetica, sans-serif;">COMPANY_1_NAME</span></h4>
+                                <h4 style="margin: 0px; color: gray; text-align: left;"><span style="color: #95a5a6; font-size: 12pt; font-family: tahoma, arial, helvetica, sans-serif;">JOB_TITLE_1</span></h4>
+                                <h4 style="margin: 0px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt;">DATES_1</span></h4>
+                            </div>
+                        </div>
+                        <p style="padding-left: 40px; text-align: left; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">
+                            <span style="color: #ffffff;">DESCRIPTION_1</span>
+                        </p>
+                        <div style="display: flex; align-items: center; padding-left: 40px;">
+                            <img width="80" src="COMPANY_2_LOGO_URL" loading="lazy" height="80" alt="Company 2 Logo" style="margin-right: 20px;" />
+                            <div>
+                                <h4 style="margin: 0px; text-align: left;"><span style="color: #ffffff; font-size: 14pt; font-family: tahoma, arial, helvetica, sans-serif;">COMPANY_2_NAME</span></h4>
+                                <h4 style="margin: 0px; color: gray; text-align: left;"><span style="color: #95a5a6; font-size: 12pt; font-family: tahoma, arial, helvetica, sans-serif;">JOB_TITLE_2</span></h4>
+                                <h4 style="margin: 0px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt;">DATES_2</span></h4>
+                                <h4 style="margin: 0px; text-align: left;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif;"> <a href="WORK_SAMPLE_2_URL" title="Work Sample 2" target="_blank" rel="noopener"> <span style="color: #95a5a6;"><span style="font-size: 12pt;">View Sample</span></span></a></span></h4>
+                            </div>
+                        </div>
+                        <p style="padding-left: 40px; text-align: left; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">
+                            <span style="color: #ffffff;">DESCRIPTION_2</span>
+                        </p>
+                        <h4 style="margin: 0px; color: gray; text-align: left; padding-left: 40px;"><span style=" font-size: 14pt; font-family: tahoma, arial, helvetica, sans-serif;"><strong><span style="color: #95a5a6;">JOB_TITLE_3</span></strong></span></h4>
+                        <h4 style="margin: 0px; text-align: left; padding-left: 40px;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt;">DATES_3</span></h4>
+                        <h4 style="margin: 0px; text-align: left; padding-left: 40px;"><span style="color: #95a5a6; font-family: tahoma, arial, helvetica, sans-serif;"><a href="WORK_SAMPLE_3_URL">View Sample:</a> <span style="color: #000000; font-size: 12pt;">WORK_SAMPLE_3_LINK</span></span></h4>
+                        <p style="padding-left: 40px; text-align: left; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">
+                            <span style="color: #ffffff;">DESCRIPTION_3</span>
+                        </p>
+                        <h4 style="margin: 0px; color: gray; text-align: left; padding-left: 40px;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"><strong><span style="color: #95a5a6;">JOB_TITLE_4</span></strong></span></h4>
+                        <h4 style="margin: 0px; text-align: left; padding-left: 40px;"><span style="color: #ffffff; font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt;">DATES_4</span></h4>
+                        <p style="padding-left: 40px; text-align: left; font-size: 8pt; font-family: tahoma, arial, helvetica, sans-serif;">
+                            <span style="color: #ffffff;">DESCRIPTION_4</span>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
+
 ```
