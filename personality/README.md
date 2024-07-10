@@ -54,7 +54,7 @@ Personality plays a fundamental role in our way of being, thinking, and acting, 
 An instrument specifically designed to capture and measure personality traits in the six domains of the HEXACO model: Openness to experience, Agreeableness, Conscientiousness, Emotionality, Extraversion, and Honesty-Humility. Through this evaluation, it is possible to obtain a precise and comprehensive view of individual characteristics, identify strengths, areas of growth, and build healthier and more effective relationships. Below are essential points of the evaluation. The full document is available to the evaluated in the attachment to this report.
 
 
-![Evaluation Results](personality/plots/radar_chart_facet_evaluation.png)
+![Evaluation Results](plots/radar_chart_facet_evaluation.png)
 
 
 
@@ -239,7 +239,7 @@ The executive processes referred to here involve complex processes, which requir
 Luis Paulo presented, in general terms, adequate performance. Motivation and the general assessment of executive functioning symptoms indicated difficulties without necessarily indicating a clinical condition.
 
 
-![Evaluation Results](personality/plots/executive_functions.png)
+![Evaluation Results](plots/executive_functions.png)
 
 
 
@@ -278,7 +278,7 @@ The main definitions of impulsivity include an inability to assess a risky situa
 | Audacity and boldness            | 14     | Medium             | 50         |
 
 
-![Evaluation Results](personality/plots/esavi-a_7.png)
+![Evaluation Results](plots/esavi-a_7.png)
 
 
 ### Results:
