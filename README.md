@@ -1,4 +1,4 @@
-# Luis Vinatea - Data Analyst
+# Paulo Barberena - Data Analyst
 
 | ![Luis Vinatea](https://media.licdn.com/dms/image/D4E03AQH56lHrlfeoZg/profile-displayphoto-shrink_200_200/0/1708397386087?e=1725494400&v=beta&t=k4TkmRyaASW0BKg1QLP2umZL1IMNlM54kifpUXByXa8) | **Administrator and analyst with 5 years of experience. Born in Brazil of Peruvian parents, lived in the USA, Spain, and Peru. Holds a degree in Economics and a diploma in Management. Currently pursuing an MBA in Corporate Finance at OBS Business School. Former restaurant owner with knowledge of sales strategy. Able to provide insights as a multilingual professional. Works as a consultant, helping small businesses make data-driven decisions** |
 |-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
